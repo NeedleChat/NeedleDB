@@ -6,7 +6,7 @@ Sets an specific value on an specific row and column, must be set on an existing
 Row index for changing the `VALUE`
 
 ### COLUMN
-Row column for changing the `VALUE`
+Column name for changing the `VALUE`
 
 ### VALUE
 Value to set.
